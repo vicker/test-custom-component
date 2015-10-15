@@ -1,8 +1,8 @@
-<CustomButtonClass>
+<Panel ux:Class="CustomButtonClass">
 
 	<Text
 		ux:Name="label"
 		TextColor="#999999"
 		/>
 
-</CustomButtonClass>
+</Panel>

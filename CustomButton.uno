@@ -1,6 +1,4 @@
-using Fuse.Controls;
-
-public partial class CustomButtonClass : Panel
+public partial class CustomButton
 {
   public string Label 
   { 
