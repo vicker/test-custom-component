@@ -1,4 +1,4 @@
-<Panel ux:Class="CustomButtonClass">
+<Panel ux:Class="CustomButton">
 
 	<Text
 		ux:Name="label"
